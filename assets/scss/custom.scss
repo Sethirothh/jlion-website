@@ -1,0 +1,25 @@
+@import '../scss/variables.scss';
+@import '../scss/animations.scss';
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+a,
+i,
+strong,
+body,
+div,
+span {
+    font-family: $font;
+    color: $color-black;
+}
+
+::selection {
+    background-color: $color-gray;
+}
