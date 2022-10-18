@@ -1,7 +1,7 @@
 <template>
   <div v-editable="blok">
     <h1>{{ blok.heading }}</h1>
-    {{ blok.paragraph }}
+    <SbRTE :richtext="blok.paragraph"></SbRTE>
   </div>
 </template>
 
