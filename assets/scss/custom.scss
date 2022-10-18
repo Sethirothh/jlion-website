@@ -20,6 +20,10 @@ span {
     color: $color-black;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 ::selection {
     background-color: $color-gray;
 }
