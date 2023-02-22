@@ -4,57 +4,16 @@
       <div class="footer__column">
         <ul class="footer__list">
           <li class="footer__list-item">
-            <h3 href="#" class="footer__heading">Footer-Column-1</h3>
+            <h3 href="#" class="footer__heading">Kontaktinformationer</h3>
           </li>
           <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
+            <a href="#" class="footer__anchor">Jesper Gyldenløve Laursen </a>
           </li>
           <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
+            <a href="#" class="footer__anchor">Jespergyldenlve@gmail.com</a>
           </li>
           <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-        </ul>
-      </div>
-      <div class="footer__column">
-        <ul class="footer__list">
-          <li class="footer__list-item">
-            <h3 href="#" class="footer__heading">Footer-Column-2</h3>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-        </ul>
-      </div>
-      <div class="footer__column">
-        <ul class="footer__list">
-          <li class="footer__list-item">
-            <h3 href="#" class="footer__heading">Footer-Column-3</h3>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
-          </li>
-          <li class="footer__list-item">
-            <a href="#" class="footer__anchor">hello</a>
+            <a href="#" class="footer__anchor">+4521734299</a>
           </li>
         </ul>
       </div>
